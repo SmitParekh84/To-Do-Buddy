@@ -1,6 +1,6 @@
 # To-Do Buddy
 
-![To-Do Buddy](https://github.com/SmitParekh84/Images/blob/main/To-do-Buddy/Screenshot%202024-05-29%20143711.png?raw=true)
+![To-Do Buddy](https://github.com/SmitParekh84/Images/blob/main/To-do-Buddy/New%20Collection%20With%20Laptop%20Mockup%20Instagram%20Post%20(1).png?raw=true)
 
 To-Do Buddy is a web-based to-do list application that helps you manage your tasks efficiently. It allows you to add, edit, delete, and filter tasks based on their status. The application also includes a theme switcher to customize the look and feel according to your preferences.
 
